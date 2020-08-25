@@ -1,0 +1,30 @@
+.logo {
+    background-color: crimson;
+    text-align: center;
+}
+
+
+.heading {
+    text-align: center;
+    font-style: italic;
+}
+
+.logo-top {
+    width: auto;
+    height: 50px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.footer {
+    text-align: right;
+    background-color: black ;
+    color: white;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
